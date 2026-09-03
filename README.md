@@ -1,7 +1,10 @@
-# Azen
-<img width="1717" height="918" alt="Screenshot_20260831_185927" src="https://github.com/user-attachments/assets/04de2c6a-91c2-433f-ac2c-2729806a9403" />
-(picture of Azen 7 R.1bsH2609 with KDE plasma original wallpaper "Sub-Artic")
-Azen(OS) is an operating system based on Ubuntu. Unlike traditional OS distributions—and due to limitations in time and technical resources—we release configuration files that allow users to customize the Ubuntu interface and optimize their experience.
-We have developed a technology called ALRM (Azen Laptop Resources Management) designed to enhance the overall performance of low-end laptops. It improves features such as deep sleep upon lid closure and reduces resource consumption by background processes. We are continuously refining this technology; thank you for your support!
+# Azen(latest)
+<img width="1600" height="900" alt="scr1" src="https://github.com/user-attachments/assets/b0bded5b-4e1f-48fe-814a-64759fbbbc11" />
+
+(picture of Azen 11 lts.1H2609 with KDE plasma original wallpaper "Sub-Artic")
+Azen(OS) is A operating system build on Arch linux. Unforetunately our technologies are not the best so can only supporting VMX files for testing,Compared to the traditional Arch Linux rolling updates, we still choose to release major versions periodically rather than using rolling updates.
+We also invented a exclusive technologies called "ALRM" full name "Azen Laptop Resources Management" taht helps old machine could be more smooth on performance
+(more info,visit our website!)
+Thanks for supporting!
 contact us: zitingliang18@gmail.com
-our websites: https://azenos.netlify.app
+our websites: https://azen.dev
